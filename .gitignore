@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Go compiled binaries / test artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
